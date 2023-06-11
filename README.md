@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Aliu! <br/><a href="https://github.com/Hackedroid">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/sanusi-aliu-a8425738">IT Instructor</a>, <a href="https://www.youtube.com/@pyruvatetechnologies?sub_confirmation=1">YouTuber</a></h1>
 
-<!--
-**Hackedroid/Hackedroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Android App Development Project:</h2>
+- <b>Restaurant App</b>(https://play.google.com/store/apps/details?id=com.app_jeunky380.layout&hl=en&gl=US)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Types of Hackers: Understand the difference](https://www.youtube.com/watch?v=xeltraaLkuA)
+- [Using the Hacking tool (PyPhisher); How to perform a social media account hack](https://www.youtube.com/watch?v=qtaRVjSW8fc)
+- [HOW TO INSTALL KALI LINUX AND VIRTUAL BOX](https://www.youtube.com/watch?v=nkYcbqZV6Ck)
+- [GET FREE RDP ONLINE USING THE GOOGLE CLOUD PLATFORM: BE ANONYMOUS ONLINE](https://www.youtube.com/watch?v=58R6-JX6BuM)
+- [Ethical Hacking vs. Malicious Hacking: Understanding the Difference](https://www.youtube.com/watch?v=EoG7VBU0JjU)
+
+<h2> Certifications </h2>
+
+- [Certified Ethical Hacker](https://drive.google.com/file/d/1oRmx2qjbMqrEgb2Yp1VKULH_HH7b87hP/view?usp=sharing)
+- [Cyber Threats](https://drive.google.com/file/d/1B2Ve-y5sXeQSO9pA5v3_bBJmyIXTVjmC/view?usp=sharing)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[tiktok]: https://www.tiktok.com/@pyruvatetechnologies
+[youtube]: https://www.youtube.com/@pyruvatetechnologies/videos
+[instagram]: https://www.instagram.com/pyruvate_technologies/
+[linkedin]: https://www.linkedin.com/in/sanusi-aliu-a8425738/
+
