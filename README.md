@@ -3,6 +3,12 @@
 <h2>👨‍💻 Android App Development Project:</h2>
 - <b>Restaurant App</b>(https://play.google.com/store/apps/details?id=com.app_jeunky380.layout&hl=en&gl=US)
 
+<h2> Certifications </h2>
+
+- [Certified Ethical Hacker](https://drive.google.com/file/d/1oRmx2qjbMqrEgb2Yp1VKULH_HH7b87hP/view?usp=sharing)
+- [Cyber Threats](https://drive.google.com/file/d/1B2Ve-y5sXeQSO9pA5v3_bBJmyIXTVjmC/view?usp=sharing)
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -12,10 +18,6 @@
 - [GET FREE RDP ONLINE USING THE GOOGLE CLOUD PLATFORM: BE ANONYMOUS ONLINE](https://www.youtube.com/watch?v=58R6-JX6BuM)
 - [Ethical Hacking vs. Malicious Hacking: Understanding the Difference](https://www.youtube.com/watch?v=EoG7VBU0JjU)
 
-<h2> Certifications </h2>
-
-- [Certified Ethical Hacker](https://drive.google.com/file/d/1oRmx2qjbMqrEgb2Yp1VKULH_HH7b87hP/view?usp=sharing)
-- [Cyber Threats](https://drive.google.com/file/d/1B2Ve-y5sXeQSO9pA5v3_bBJmyIXTVjmC/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
