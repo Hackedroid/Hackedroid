@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aliu! <br/><a href="https://github.com/Hackedroid">Certified Ethical hacker</a>, <a href="https://www.linkedin.com/in/sanusi-aliu-a8425738">IT Instructor</a>, <a href="https://www.youtube.com/@pyruvatetechnologies?sub_confirmation=1">YouTuber</a></h1>
+<h1>Hi, I'm Aliu! <br/><a href="https://github.com/Hackedroid">Certified International Trainer, Coach and Mentor | Cloud security | PenTesting</h1>
 
 <h2>👨‍💻 Android App Development Project:</h2>
 
