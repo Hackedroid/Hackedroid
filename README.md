@@ -11,6 +11,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
+| [Linux](https://s)                 | File permission, User and file management.      |
 | [Splunk for Log Analysis](https://s)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects](https://)        | Monitoring Active directory events and security alerts      |
 | [Ethical Hacking Projects for Beginners](https://)               | Hands-on projects for Ethical hacking and penetration testing      |
