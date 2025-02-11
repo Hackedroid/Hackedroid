@@ -14,7 +14,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | [Linux](https://github.com/Hackedroid/Linux.git)                 | File permission, User and file management.      |
 | [Splunk for Log Analysis](https://s)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects](https://)        | Monitoring Active directory events and security alerts      |
-| [Ethical Hacking Projects for Beginners](https://)               | Hands-on projects for Ethical hacking and penetration testing      |
+| [Penetration Testing Report on Metasploitable 2](https://github.com/Hackedroid/Penetration-Testing-Report-on-Metasploitable-2.git)              | Hands-on penetration testing      |
 | [Windows Forensics Projects for Beginners](https://)  | Practical excercises on Windows forensics and analysis |
 
 
