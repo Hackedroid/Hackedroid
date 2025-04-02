@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/sanusi-aliu-a8425738/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@ali_B_Sanusi"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
-
-As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
+On a secure the cyberspace mission | Mentor | Cybersecurity Analyst | Penetration tester | Researcher | Founder of multiple startups ( CyberYoruba, Halisans, Pyruvate technologies)
+As an cybersecurity analyst and pentration tester who loves teaching, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
 
 
 
